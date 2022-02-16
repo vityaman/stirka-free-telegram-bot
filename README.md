@@ -14,3 +14,4 @@ and provide us with useful functionality.
 ## Required python packages
 - ```pip install unittest``` - for unit testing
 - ```pip install python-telegram-bot``` - telegram bot api wrapper
+- ```pip install python-dotenv``` - reading data from .env files
